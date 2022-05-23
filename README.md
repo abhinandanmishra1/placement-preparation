@@ -1,4 +1,4 @@
-# This repository is for practicing questions and storing approaches
+## This repository is for practicing questions and storing approaches
 
 ### Topics that have to be worked more
 
